@@ -1,6 +1,7 @@
+
 {
-  "name": "wi-sequelize",
-  "version": "1.0.0",
+  "name": "sequelize",
+  "version": "1.0.1",
   "description": "A customer version of sequelize for sync wi-project",
   "main": "index.js",
   "directories": {
